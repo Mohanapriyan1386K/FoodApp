@@ -1,13 +1,15 @@
 import React from "react";
 import { HashRouter, Routes, Route } from "react-router-dom";
 
-import Login from "../pages/Login";
 import Signup from "../pages/Signup";
-import Home from "../pages/Home";
 import Blogs from "../Pages/Blogs";
 import Post from "../Pages/Post";
 import ProtectedRoute from "./ProtectedRoute";
 import Navbar from "../Layout/Navbar";
+import Login from "../Pages/Login";
+import Home from "../Pages/Home";
+
+
 
 const AppRoutes = () => {
   return (
