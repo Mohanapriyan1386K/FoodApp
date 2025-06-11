@@ -1,7 +1,7 @@
 import React from "react";
 import { HashRouter, Routes, Route } from "react-router-dom";
 
-import Signup from "../pages/Signup";
+import Signup from "../Pages/Signup";
 import Blogs from "../Pages/Blogs";
 import Post from "../Pages/Post";
 import ProtectedRoute from "./ProtectedRoute";
