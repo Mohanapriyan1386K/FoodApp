@@ -1,0 +1,142 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "food_name": "Grilled Paneer Wrap",
+      "url_image": "https://images.pexels.com/photos/1640771/pexels-photo-1640771.jpeg",
+      "price": 7.99,
+      "description": "Spicy grilled paneer cubes wrapped in soft naan with chutneys and veggies.",
+      "offer_image_url": "https://media.istockphoto.com/id/483822209/photo/fifty-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Wrap Nation",
+      "Rating": "⭐⭐⭐⭐",
+      "Ratings": "4.0"
+    },
+    {
+      "id": "2",
+      "food_name": "Double Cheese Burger",
+      "url_image": "https://images.pexels.com/photos/1639561/pexels-photo-1639561.jpeg",
+      "price": 7.49,
+      "description": "Loaded beef burger with double cheese and crispy onions on a toasted bun.",
+      "offer_image_url": "https://media.istockphoto.com/id/484623499/photo/eighty-five-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Grill Hub",
+      "Rating": "⭐⭐⭐⭐",
+      "Ratings": "3.8"
+    },
+    {
+      "id": "3",
+      "food_name": "Mutton Biryani",
+      "url_image": "https://images.pexels.com/photos/1063431/pexels-photo-1063431.jpeg",
+      "price": 12.49,
+      "description": "Fragrant basmati rice with slow-cooked tender mutton and traditional spices.",
+      "offer_image_url": "https://media.istockphoto.com/id/484623493/photo/seventy-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Royal Biryani",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Ratings": "4.8"
+    },
+    {
+      "id": "4",
+      "food_name": "Pesto Penne Pasta",
+      "url_image": "https://images.pexels.com/photos/1435908/pexels-photo-1435908.jpeg",
+      "price": 8.95,
+      "description": "Penne pasta tossed in creamy basil pesto with cherry tomatoes and parmesan.",
+      "offer_image_url": "https://media.istockphoto.com/id/483822175/photo/five-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "The Pasta Bowl",
+      "Rating": "⭐⭐⭐⭐",
+      "Ratings": "3.6"
+    },
+    {
+      "id": "5",
+      "food_name": "Greek Salad",
+      "url_image": "https://images.pexels.com/photos/1640772/pexels-photo-1640772.jpeg",
+      "price": 6,
+      "description": "Crisp lettuce, olives, feta cheese, and cucumbers in a lemon-oregano dressing.",
+      "offer_image_url": "https://media.istockphoto.com/id/483822203/photo/forty-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Mediterranean Fresh",
+      "Rating": "⭐⭐⭐⭐",
+      "Ratings": "3.2"
+    },
+    {
+      "id": "6",
+      "food_name": "Tandoori Paneer",
+      "url_image": "https://images.pexels.com/photos/1583885/pexels-photo-1583885.jpeg",
+      "price": 10.5,
+      "description": "Char-grilled paneer cubes marinated in spicy tandoori masala and yogurt.",
+      "offer_image_url": "https://media.istockphoto.com/id/483822203/photo/forty-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Spice Grill",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Ratings": "4.2"
+    },
+    {
+      "id": "7",
+      "food_name": "Dragon Roll Sushi",
+      "url_image": "https://images.pexels.com/photos/3577566/pexels-photo-3577566.jpeg",
+      "price": 15,
+      "description": "Delicious eel and avocado sushi roll topped with sweet sauce and sesame seeds.",
+      "offer_image_url": "https://media.istockphoto.com/id/483822175/photo/five-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Tokyo Express",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Ratings": "4.7"
+    },
+    {
+      "id": "8",
+      "food_name": "Onion Rings",
+      "url_image": "https://cdn.pixabay.com/photo/2017/02/23/13/05/onion-rings-2091573_1280.jpg",
+      "price": 3.25,
+      "description": "Crispy battered onion rings served golden brown with tangy dipping sauce.",
+      "restaurant_name": "Snack Hub",
+      "offer_image_url": "https://media.istockphoto.com/id/483822209/photo/fifty-percent-off-shaped-price-label.jpg",
+      "Rating": "⭐⭐⭐⭐",
+      "Ratings": "3.9"
+    },
+    {
+      "id": "9",
+      "food_name": "Cheesy Garlic Bread",
+      "url_image": "https://images.pexels.com/photos/1435909/pexels-photo-1435909.jpeg",
+      "price": 4,
+      "description": "Oven-baked garlic bread topped with melted mozzarella and herbs.",
+      "offer_image_url": "https://media.istockphoto.com/id/483822209/photo/fifty-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Cheese Factory",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Ratings": "4.6"
+    },
+    {
+      "id": "10",
+      "food_name": "Strawberry Cheesecake",
+      "url_image": "https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg",
+      "price": 5.5,
+      "description": "Creamy cheesecake topped with fresh strawberries and glaze on a biscuit crust.",
+      "offer_image_url": "https://media.istockphoto.com/id/483822209/photo/fifty-percent-off-shaped-price-label.jpg",
+      "restaurant_name": "Sweet Slice",
+      "Rating": "⭐⭐⭐⭐⭐",
+      "Ratings": "4.9"
+    },
+    {
+      "id": "6631",
+      "food_name": "MOHAN",
+      "description": "Spicy grilled paneer cubes wrapped in soft naan with chutneys and veggies.",
+      "url_image": "https://images.unsplash.com/photo-1624726175512-19b9baf9fbd1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Ratings": "2.5"
+    },
+    {
+      "id": "acca",
+      "food_name": " MOHAN",
+      "description": "Spicy grilled paneer cubes wrapped in soft naan with chutneys and veggies.",
+      "url_image": "https://images.unsplash.com/photo-1624726175512-19b9baf9fbd1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Ratings": "1.5"
+    },
+    {
+      "id": "fde3",
+      "food_name": "santhosh",
+      "description": "ghghg",
+      "url_image": "https://images.unsplash.com/photo-1609167830220-7164aa360951?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Ratings": "2.5"
+    },
+    {
+      "id": "c10c",
+      "food_name": "MOHAN",
+      "description": "Loaded beef burger with double cheese and crispy onions on a toasted bun.",
+      "url_image": "https://images.unsplash.com/photo-1624726175512-19b9baf9fbd1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "Ratings": "2.5"
+    }
+  ]
+}
